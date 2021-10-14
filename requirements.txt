@@ -7,4 +7,4 @@ requests==2.24.0
 seaborn==0.11.0
 session_info==1.0.0
 streamlit==1.0.0
-streamlit_folium==NA
+streamlit_folium==0.4.0
